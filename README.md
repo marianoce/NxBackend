@@ -22,6 +22,13 @@ CLOUDINARY_CLOUD=CLOUD
 CLOUDINARY_CLOUD_FOLDER=CLOUDFOLDER
 ```
 
+Una vez configurado, se puede ejecutar con el siguiente comando:
+
+### `tsc`
+### `node ./dist/index.js`
+
+El comano tsc, genera el directorio "dist", el codigo destino corresponde a es5, esto se puede configurar desde el archivo tsconfig.json
+
 ## Contribuciones
 Todas las pull request son bienvenidas.
 
