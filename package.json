@@ -1,0 +1,35 @@
+{
+    "name": "nx",
+    "version": "0.0.1",
+    "description": "Casi Foro",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "MC",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "cloudinary": "^1.23.0",
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "express-fileupload": "^1.2.0",
+        "express-validator": "^6.6.1",
+        "jsonwebtoken": "^8.5.1",
+        "moment": "^2.29.1",
+        "mongoose": "^5.10.15",
+        "streamifier": "^0.1.1",
+        "uuid": "^8.3.1"
+    },
+    "devDependencies": {
+        "@types/bcryptjs": "^2.4.2",
+        "@types/cors": "^2.8.8",
+        "@types/express": "^4.17.9",
+        "@types/express-fileupload": "^1.1.5",
+        "@types/jsonwebtoken": "^8.5.0",
+        "@types/mongoose": "^5.10.1",
+        "@types/node": "^14.14.10",
+        "@types/uuid": "^8.3.0"
+    }
+}
